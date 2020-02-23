@@ -8,4 +8,11 @@ tags:
   - category2
 ---
 
-$$\int_{0}^\infty e^x dx$$
+$\int_0^\infty e^x dx$
+
+$$\int e^x$$
+
+$\begin{align*}
+P(\cap A) = \sum P(A)
+\end{align*}
+$
