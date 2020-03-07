@@ -24,7 +24,7 @@ There's a notion of "OR" in logic as well. We call it the _disjunction_. If we h
 
 Okay, nice, we have some literals. What can we do with them? Well, now we can form a _clause_. A clause is just an arbitrary _disjunction_ of some literals. So let's say $y$ is a clause. If we have some literals, say $x_1, x_2$ and $\bar{x_3}$ we might have a clause that looks like $y = x_1 \lor x_2 \lor \bar{x_3}$. Clauses are surprisingly arbitrary, we can use them to represent a variety of objects. For example, let's say we have a graph $G$ made of $3$ vertices: $u, v$ and $w$. $G$ is connected, whatever. Now we can form the clause $y$ representing the question: "Is any vertex in $G$ colored red?" Good question. Now if $x_i$ ($i \in { 1, 2, 3 }$) are three Booleans that represent whether each vertex $u$, $v$ and $w$ is red (respectively), it's pretty plain to see that if at least one of the $x_i$'s is TRUE, then the corresponding vertex is red. The answer to our question is "yes", and consequently the clause $y = x_1 \lor x_2 \lor x_3$ is going to evaluate to TRUE as well.
 
-Okay, let's recap. Literals are just some variables $x \in \{ TRUE, FALSE\}$ and a clause $y$ is just a disjunction of a bunch of literals. Great. Now what?
+Okay, let's recap. Literals are just some variables $x \in \ { True, False\ }$ and a clause $y$ is just a disjunction of a bunch of literals. Great. Now what?
 
 **II.**
 
