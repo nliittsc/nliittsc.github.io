@@ -11,6 +11,6 @@ tags:
 
 This post has largely been inspired by the following tweet: 
 
-![Conspiracy?](C:\Users\18315\Documents\GitHub\nliittsc.github.io\images\gamingbad1.png)
+![Conspiracy?]({{site.url}}\images\gamingbad1.png)
 
 
