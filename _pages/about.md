@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My pronouns are he/him/his. 
 
 This website is essentially a place where I can
   - Sketch out the technical details of things that I like, for the purpose of remembering and organizing my thoughts
@@ -14,6 +15,7 @@ This website is essentially a place where I can
   - Provide updates of things that I may be currently working on.
 
 This is all sort of de*pending* on how much I utilize the blog. It's probably helpful to think of this website as a giant work-in-progress. Pages may change over time, opinions may change over time, technical interests and know-how may change over time. I like lists, so here are some:
+
 
 ### Technical interests:
   - The probabilistic method in combinatorics
