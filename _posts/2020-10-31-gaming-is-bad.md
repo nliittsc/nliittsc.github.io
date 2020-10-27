@@ -4,9 +4,10 @@ date: 2020-10-25
 permalink: /posts/2020/01/gaming_is_terrible/
 tags:
   - Gaming
-  - 
+  - Politics
+  - Bad Takes
 ---
-Why?
+Now here's a take.
 
 **I.**
 
