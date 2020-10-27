@@ -63,11 +63,15 @@ Video games are made by people with real beliefs. Developers have worldviews and
 
 I want an example, and I'm not perfect, so here's a conversation that actually happened when I tried to get a significant other to play *Monster Hunter World* with me.
 
-Them: So, what's the storyline to this game?
-Me: It's not too important. The main point of the game is hunting the monsters. The gameplay is really well designed. All the weapons are unique and --
-Them: So we just go to this monster's home and the kill it?
-Me: Uh, yes. I mean, well, it's more than -- there *is* a story, it's just not the main point --
-Them: What if I don't want to kill the monster? It's just trying to live. Aren't we the ones who are invading its territory?
+*Them:* So, what's the storyline to this game?
+
+*Me:* It's not too important. The main point of the game is hunting the monsters. The gameplay is really well designed. All the weapons are unique and --
+
+*Them:* So we just go to this monster's home and the kill it?
+
+*Me:* Uh, yes. I mean, well, it's more than -- there *is* a story, it's just not the main point --
+
+*Them:* What if I don't want to kill the monster? It's just trying to live. Aren't we the ones who are invading its territory?
 
 I was sort of taken aback by this. I like to think that usually I'm pretty good at noticing the weird assumptions that I'm being asked to swallow whenever I read/watch/play something, but this caught me off guard. In hindsight, the reason I hadn't noticed that I accepted the premise of the game is because I was enamored by how unique the gameplay was, how tight the controls were, and cool the weapons were, *and* because the game offered a justification for its premise like 5 minutes in: the monsters have actually gone rogue and since we are trying to put up a settlement in a new piece of territory called the New World, we couldn't let them wreak havoc, and the only way to really deal with the monsters is by slaying the-- Fuck, this is almost the Goblin Problem. 
 
