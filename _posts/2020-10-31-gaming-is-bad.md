@@ -103,7 +103,7 @@ And the Alt-Right have an agenda that involves controlling spaces where discours
 
 Go for it. No one is going to stop you. If you think my arguments are convincing, then probably what I would say is this: Just try to be a little bit critical of the narrative devices in your game. See if you can notice the assumptions the game is asking you to make. If have difficulty with this, then either the writing staff is really good at their job, or you've already bought in. 
 
-If you're not sure what I mean, then here's an example. Many of us in my generation grew up playing Pokemon. But at some point, most of us realized that capturing little animals and forcing them to fight each other was kind of... wrong. At least weird. When this realization hits, most people just kind of go "Huh." Then go back to playing. 
+If you're not sure what I mean, then here's an example. Many of us in my generation grew up playing Pokemon. But at some point, most of us realized that capturing little animals and forcing them to fight each other was kind of... wrong. At least weird. When this realization hits, most people just kind of go "Huh." Then go back to playing. The game is *different now*. You are aware of the device used in the game, so now you must *actively suspend your disbelief*.
 
-I think that's enough.
+If you can take a step back and turn a critical eye towards things you *already enjoy*, then that's probably enough. Any amount of introspection over a choice of hobbies is probably better than zero introspection at all.
 
