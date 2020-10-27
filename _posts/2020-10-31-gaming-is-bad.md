@@ -18,7 +18,10 @@ I'll just flat out say it: It's definitely not a conspiracy. For those of you wh
 
 So, what exactly are they so riled up about? 
 
-Basically, that they can't dominate the CoQ Discord the way they want to. They will *tell you* that it's because Brian is a dick who bans people for asking for a quest to play as the (racist) Templar (with a eugenics agenda) in CoQ, or that they're paying customers and this is about free speech, or that they're "just asking questions and trying to talk about the game", but as Brian points out in his Twitter thread, this is claim is simply a red herring. They're mad because Brian won't let them do what they've done to every single other gaming space: dominate it, control it, then turn it into a safe space for "ironic" racist memes. In other words, they want to turn yet another Discord channel into a nazi bar: [include image from twitter]
+Basically, that they can't dominate the CoQ Discord the way they want to. They will *tell you* that it's because Brian is a dick who bans people for asking for a quest to play as the (racist) Templar (with a eugenics agenda) in CoQ, or that they're paying customers and this is about free speech, or that they're "just asking questions and trying to talk about the game", but as Brian points out in his Twitter thread, this is claim is simply a red herring. They're mad because Brian won't let them do what they've done to every single other gaming space: dominate it, control it, then turn it into a safe space for "ironic" racist memes. In other words, they want to turn yet another Discord channel into yet another Nazi bar: 
+
+![nazibar]({{site.url}}\images\nazi_bar.jpg)
+
 
 **II.**
 
