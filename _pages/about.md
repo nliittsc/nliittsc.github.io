@@ -21,6 +21,7 @@ This is all sort of de*pending* on how much I utilize the blog. It's probably he
   - The probabilistic method in combinatorics
   - (Bayesian) statistics and machine learning, begrudgingly
   - Graph Theory, both applied and theoretical. For example, I like social networks and Bayesian networks as models, but I would prefer thinking about Ramsey numbers
+  - Coloring problems, Graph Homomorphisms
 
 ### Non-technical interests:
   - Recently I became a huge fan of the Monster Hunter series, putting in 500 hours into Monster Hunter World during COVID-19 quarantine
