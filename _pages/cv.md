@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * B.S. Applied Mathematics from UC San Diego
