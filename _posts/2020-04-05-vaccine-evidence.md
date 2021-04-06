@@ -14,7 +14,7 @@ Now here's a take.
 
 This post was largely inspired by the [following tweet:](https://twitter.com/alwaystheself/status/1378597558860267520)
 
-![buckwild](../images/stayinside.png)
+![buckwild]({{site.url}}\images\stayinside.png)
 
 There is already litany of discourse on the bird site about this tweet, so I'm not sure it's neccesary to cover it all, but there's really an interesting implicit claim being made in the tweet here: *don't bother getting vaccinated*. To be clear, this is a fantastically stupid position, but it really does present a baffling stance that seem to be held by a small minority of liberals that *claim* to trust the science, but evidently do not upon closer inspection. Wasn't the whole point of quaratining so that we could flatten the curve and thereby reduce workload on the medical system and thus give scientists time to develop a vaccine? If not that, then what *was* the point?
 
@@ -22,7 +22,7 @@ If someone was, for some reason, on the fence about getting the vaccine, what do
 
 I suspected that Professor Fleming does not actually believe the vaccine works, but then I saw this [next tweet](https://twitter.com/alwaystheself/status/1378855843194679297) which essentially confirmed that suspicion:
 
-![convinced](../images/needconvincing.png)
+![convinced]({{site.url}}\images\needconvincing.png)
 
 For someone who is apparently educated enough to be a professor, the idea that one would even *question* whether to get the vaccine or not is completely baffling. It really seems that Professor Fleming was completely willing to just catch COVID-19, attempt to not die, potentially give it to other people, and then carry on with their body's manufactured antibodies. But what *convinced* them to get the vaccine is the fact that, actually, COVID-19 is not a one-and-done kind of deal. It's not the chickenpox, where you just get it as a kid, then be done with it. No, there is some [non-trivial risk of long term effects](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects.html). 
 
@@ -45,7 +45,7 @@ While the link doesn't say this explicitly, I'm willing to bet that *if* you're 
 
 However, we forgot to ask the most important person in the room what they think of the CDC:
 
-![wrong](../images/evidence.png)
+![wrong]({{site.url}}\images\evidence.png)
 
 Astounding. 
 
@@ -58,7 +58,7 @@ But since the CDC is a large *organization*, they cannot go on to make claims li
 Fleming here is claiming that the CDC was *wrong*, and therefore untrustworthy when making the claim that vaccines make you mostly safe. But there *is* [statistical evidence](https://www.cdc.gov/media/releases/2021/p0329-COVID-19-Vaccines.html) that the vaccines work:
 
 
-![evidence](../images/goodevidence.png)
+![evidence]({{site.url}}\images\goodevidence.png)
 
 The problem here is that people like Fleming neither understand *nor* trust the science. 
 
@@ -70,7 +70,7 @@ It made me laugh. It seems to be true. Why is this? I think the discourse here i
 
 Either way, people that are supportive of Fleming's position like to claim that they actually *do* trust the science, and the science says that the vaccines offer no, or unknown protection against the COVID-19 variants that have been popping up. Funnily enough, if you ask them for why they believe this, they will cite the CDC:
 
-![still-learning](../images/stilllearning.png)
+![still-learning]({{site.url}}\images\stilllearning.png)
 
 I'll just say it: these people think that absence of evidence is evidence of absence. They think that *because* no large studies have confirmed the vaccine's efficacy against the variants, *therefore* the vaccine offers little to no protection. Nevermind the fact that most people got the vaccine, like, yesterday, or the fact that vaccines have essentially eradicated stuff like Polio and Smallpox. Do they think that those diseases did not have variants? I'm not a biologist, but I do know that Polio has variants and it turns out you can just take a vaccine for that. Is it so crazy to think that now that we have a vaccine, now that covid-19 is better understood, that we'll be able to continue developing booster shots for the new variants? 
 
@@ -80,7 +80,7 @@ I claim that it is not. I hate to sound like one of those *rationalists*, but my
 
 Some people, I guess, are dubious because of articles like this:
 
-![still-contagious](../images/contagious.png)
+![still-contagious]({{site.url}}\images\contagious.png)
 
 I'm not showing who retweeted this. After all, I don't know them and don't care who they are. They have, like, 20 followers. But they retweeted this article as evidence that one should still be in lockdown-mode after getting vaccinated. I.e., they used this article to implicitly support the claim that vaccines don't work. Let's take a look.
 
