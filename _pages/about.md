@@ -20,7 +20,10 @@ This is all sort of de*pending* on how much I utilize the blog. It's probably he
 ### Technical interests:
   - The probabilistic method in combinatorics
   - (Bayesian) statistics and machine learning, begrudgingly
-  - Graph Theory, both applied and theoretical. For example, I like social networks and Bayesian networks as models, but I would prefer thinking about Ramsey numbers
+  - Graph Theory, both applied and theoretical.
+  - Programming languages and Program synthesis
+  - SAT/SMT solvers
+  - Type Theory & Verification
   - Coloring problems, Graph Homomorphisms
 
 ### Non-technical interests:
@@ -35,14 +38,12 @@ This is all sort of de*pending* on how much I utilize the blog. It's probably he
 ### Currently working on:
   - Making this blog presentable
   - Learning Haskell
-  - Learning "infinitary combinatorics"
-  - Applying to PhDs in Math and Computer Science
   - Getting back into gaming because I am working on...
   - Not getting COVID-19
 
 ### Stuff I want to work on:
   - Getting back into a gym to climb rocks and/or lift weights
-  - Combinatorics (of a probabilistic flavor)
+  - Writing my own programming language
   - Math Book Reviews
   - Video Game Reviews
   - Getting a solid 8 hours of sleep a night
