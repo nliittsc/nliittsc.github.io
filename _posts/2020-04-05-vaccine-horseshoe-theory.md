@@ -88,17 +88,14 @@ I'm not showing who retweeted this. After all, I don't know them and don't care 
 
 Roughly, 
 $$P[\text{covid} | \text{vaccine}] = 0.0002.$$
-
 Also, 
-
 $$P[\text{hospital} | \text{covid} \cap \text{vaccine}] = 0.0425,$$
-
 and 
-
 $$P[\text{die of covid} | \text{covid} \cap \text{vaccine} \cap \text{hospital}] = 0.35.$$
 
 
-The last number seems scary. 35% chance to die if hospitalized from Covid after vaccination? But, that's not actually what we care about. This is: $P[\text{die of covid} | \text{vaccine}]$.  
+The last number seems scary. 35% chance to die if hospitalized from Covid after vaccination? But, that's not actually what we care about. This is: 
+$$P[\text{die of covid} | \text{vaccine}].$$
 
 Using the law of total probability, the computation is
 
