@@ -86,7 +86,17 @@ I'm not showing who retweeted this. After all, I don't know them and don't care 
 
 2.2 million people in Illinois have received a full vaccination. 399 Tested positive for coronavirus (largely asymptomatic), 17 were hospitalized, 6 died. Does this mean we need to stay in lockdown mode? Let's just use this article's numbers and compute some probabilities.
 
-Roughly, $P[\text{covid} | \text{vaccine}] = 0.0002$. Also, $P[\text{hospital} | \text{covid} \cap \text{vaccine}] = 0.0425$, and $P[\text{die of covid} | \text{covid} \cap \text{vaccine} \cap \text{hospital}] = 0.35$.
+Roughly, 
+$$P[\text{covid} | \text{vaccine}] = 0.0002.$$
+
+Also, 
+
+$$P[\text{hospital} | \text{covid} \cap \text{vaccine}] = 0.0425,$$
+
+and 
+
+$$P[\text{die of covid} | \text{covid} \cap \text{vaccine} \cap \text{hospital}] = 0.35.$$
+
 
 The last number seems scary. 35% chance to die if hospitalized from Covid after vaccination? But, that's not actually what we care about. This is: $P[\text{die of covid} | \text{vaccine}]$.  
 
