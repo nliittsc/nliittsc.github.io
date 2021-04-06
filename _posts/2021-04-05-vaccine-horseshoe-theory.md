@@ -1,7 +1,7 @@
 ---
 title: "Vaccine Horseshoe Theory"
-date: 2020-04-05
-permalink: /posts/2020/04/vaccine_horseshoe_theory/
+date: 2021-04-05
+permalink: /posts/2021/04/vaccine_horseshoe_theory/
 tags:
   - Politics
   - Bad Takes
