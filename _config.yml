@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Nathan"
-  avatar           : "profile.png"
-  bio              : "Blogging, computer-sciencey space-cadet"
-  #location         : "Location"
-  #employer         :
+  avatar           : "profile.jpg"
+  bio              : "computer science student"
+  location         : "Santa Cruz"
+  employer         : "University of California, Santa Cruz"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "nliittsc(at)ucsc(dot)edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
