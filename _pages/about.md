@@ -7,45 +7,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My pronouns are he/him/his. 
+I am a PhD student at University of California, Santa Cruz. My adviser is Lindsey Kuper.
+I work on a fascinating intersection of distributed systems theory and programming languages theory.
+My primary work has centered around the use of (bi)simulation relations in order to establish equivalences
+in realistic models of distributed systems (as opposed to process calculi),
+often borrowing concepts and tools from programming language
+theory to achieve this.
+ 
+### Research Interests:
+  - programming languages, type theory
+  - theory of distributed systems, conflict-free replicated data types
+  - coalgebra semantics, process calculi, bisimulation
+  - formal verification, interactive theorem provers
+  
 
-This website is essentially a place where I can
-  - Sketch out the technical details of things that I like, for the purpose of remembering and organizing my thoughts
-  - Give (potentially bad) takes on a variety of subjects: Math, Statistics, Computer Science, Gaming, Books, etc.
-  - Provide updates of things that I may be currently working on.
-
-This is all sort of de*pending* on how much I utilize the blog. It's probably helpful to think of this website as a giant work-in-progress. Pages may change over time, opinions may change over time, technical interests and know-how may change over time. I like lists, so here are some:
-
-
-### Technical interests:
-  - The probabilistic method in combinatorics
-  - (Bayesian) statistics and machine learning, begrudgingly
-  - Graph Theory, both applied and theoretical.
-  - Programming languages and Program synthesis
-  - SAT/SMT solvers
-  - Type Theory & Verification
-  - Coloring problems, Graph Homomorphisms
-
-### Non-technical interests:
-  - Recently I became a huge fan of the Monster Hunter series, putting in 500 hours into Monster Hunter World during COVID-19 quarantine
-  - Anime (unfortunately)
-  - Bouldering. Current skill: VB-V0. Personal Record: V4
-  - Olympic Weightlifting and Powerlifting. I don't lift any more, but here are some old (unofficial) personal records since I am proud of them:
-    * Snatch: 92kg, Clean&Jerk: 127kg @ 80kg weight class
-    * Squat: 460lbs, Bench Press: 280lbs, Deadlift: 500lbs @ 203lb bodyweight.
-
-
-### Currently working on:
-  - Making this blog presentable
-  - Learning Haskell
-  - Getting back into gaming because I am working on...
-  - Not getting COVID-19
-
-### Stuff I want to work on:
-  - Getting back into a gym to climb rocks and/or lift weights
-  - Writing my own programming language
-  - Math Book Reviews
-  - Video Game Reviews
-  - Getting a solid 8 hours of sleep a night
-  - Figuring out how to track viewer statistics on this site
+### Non-technical interests
+  - i am an avid gamer, and have been my whole life, both video games and table top. i am partial to the following series:
+    * final fantasy, dragon quest, monster hunter, soulsborne, baldur's gate 3
+  - my most played game is Final Fantasy XIV. i raid high-end content and i main the tank role, with Warrior and Dark Knight being my main jobs.
+    * my main claim to "fame" in that game is holding rank 5 in the world among all warrior players for recorded DPS
+      in the Hegemone fight of the Abyssos savage raid tier, during the Endwalker expansion. logs available upon request ;)
+  - for table top games, i enjoy DnD and i paint warhammer 40000 figures (Astra Militarum!), and one day i will play a real game!
+  - Other interests:
+    * anime, ww2 era warships and tanks
+    * olympic weightlifting and powerlifting. i don't lift any more (last competition was in 2016) but here are some old (unofficial)
+      personal records: snatch 92kg, clean and jerk: 127kg (@ 80kg weight class), 
+      squat 460lbs, bench press 280lbs, deadlift 500lbs (@ 203lb weightclass)
 

@@ -33,10 +33,8 @@ I have worked as a TA for the following classes at UC San Diego:
 * Computer Science
   - CSE101: Design & Analysis of Algorithms
 
-Other Experiences
+<!-- Other Experiences
 ======
 I think I have a colorful history in some sense. Here are some  highlights.
 * Internships
-  - Data Science Internship @ ASML, summer of 2019
-* Random jobs I have worked in the (now distant) past
-  - Grocery Store Deli Manager, Barback in a bar in San Francisco, Theater Actor
+  - Data Science Internship @ ASML, summer of 2019 -->

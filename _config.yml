@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WorkingDelta"
+title                    : "Nathan E. Liittschwager"
 title_separator          : "-"
-name                     : &name "Nathan Liittschwager"
-description              : &description "Blogger and computer science person; space-cadet thinker."
+name                     : &name "nathan"
+description              : &description "PhD student at University of California, Santa Cruz"
 url                      : https://nliittsc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nliittsc.github.io"
