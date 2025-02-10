@@ -21,10 +21,9 @@ and often borrowing concepts and tools from programming language theory to achie
   
 
 ### Non-technical interests
-  - i like to play video games, and i am partial to the following series:
-    * final fantasy, dragon quest, monster hunter, soulsborne, baldur's gate 3
+  - i like to play video games, and i am partial to the following series: final fantasy, dragon quest, monster hunter, soulsborne, baldur's gate 3
   - my most played game is Final Fantasy XIV. i raid high-end content and i main the tank role, with Warrior and Dark Knight being my main jobs.
-    During the Abyssos savage raid tier, I held rank 5 in the world among all Warrior players for record damage-per-second
+    During the Abyssos savage raid tier, I held rank 5 in the world among all Warrior players for recorded DPS
     in P6S (the Hegemone fight).
   - for table top games, i enjoy DnD and i paint warhammer 40000 figures (Astra Militarum!)
   - Other interests:
